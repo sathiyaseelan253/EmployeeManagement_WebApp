@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAOaGnpjmMDUCnC3hIqhLWyQAAAAACAAAAAAADZgAAwAAAABAAAADhXzljpw40vBS5LAK81/XGAAAAAASAAACgAAAAEAAAAK+SHwnWv7rSxPY9tctLyN2AAAAADiwNjRCdAVigQ4zmRP7SbtYgmh+60RdpfwrJTA5V3vC3w7CqZ0qDHAd+o+jAE6PxC4+7Sp21IiQwrL8ucsVnTqkSf/BNhJ++Nle7EFIvJsIHpKef+7FjQloSZPPrJSxAomwI0Sqh3SNXGSebd+4i3SAIPzmQipEyLqpcT+RnoXMUAAAAvYQYtQ+8P2f5JSDeFCUGvTTyjEw=</EncryptedPassword>
+    <History>True|2023-07-11T09:36:22.4953920Z;False|2023-07-11T15:03:25.7719300+05:30;True|2023-07-11T14:52:33.7551595+05:30;True|2023-07-11T12:43:16.1315566+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="defaultConnectionString">
+      <Value>Data Source=tcp:contactsmanager.database.windows.net,1433%3bInitial Catalog=ContactsManager_DB%3bUser Id=asplap%40contactsmanager%3bPassword=Aspire%40123</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
