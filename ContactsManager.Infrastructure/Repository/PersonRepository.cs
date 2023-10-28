@@ -40,6 +40,7 @@ namespace Repositories
         {
             _logger.LogInformation("GetAllPersons of PersonsRepository");
 
+            
             return await _db.Persons.Include("Country").ToListAsync();
         }
 
